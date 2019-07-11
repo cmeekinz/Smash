@@ -1,0 +1,26 @@
+body{
+	 background-image: linear-gradient(red, yellow); 
+	color: black;
+	font-size:25px;
+}
+
+
+#olp {
+  background-image: linear-gradient(orange, teal);
+  border-bottom: solid black;
+  padding: 10px;
+ 
+ 
+}
+
+#soo {background-image: linear-gradient(orange, teal);
+border-bottom: solid black;
+padding: 10px;
+
+}
+
+#ok{
+	float: left;
+	width: 300px;
+   clear: right;
+}
